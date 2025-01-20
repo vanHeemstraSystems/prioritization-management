@@ -148,7 +148,7 @@ class PriorityFlowchart:
                 
                 # Importance decision point
                 is_important = self._ask_question(
-                    "With this task, are we doing the Important Thing(s)?",
+                    "With this task, are we doing the important Thing(s)?",
                     task
                 )
                 

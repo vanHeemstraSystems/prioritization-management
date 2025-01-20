@@ -55,7 +55,7 @@ Based on the answers, it assigns:
 # - Are we doing anything? → yes (Productive)
 # - Are we doing the right things? → yes (Effective)
 # - Are we doing things right? → yes (Efficient)
-# - Are we doing Important things? → yes (Important)
+# - Are we doing important things? → yes (Important)
 # - Are we doing urgent things? → yes (Urgent)
 # Result: Priority P1, NON_WASTE
 ```
@@ -67,7 +67,7 @@ Based on the answers, it assigns:
 # - Are we doing anything? → yes (Productive)
 # - Are we doing the right things? → yes (Effective)
 # - Are we doing things right? → yes (Efficient)
-# - Are we doing Important things? → no (Unimportant)
+# - Are we doing important things? → no (Unimportant)
 # - Are we doing urgent things? → yes (Urgent)
 # Result: Priority P2A, NON_WASTE
 ```
@@ -79,7 +79,7 @@ Based on the answers, it assigns:
 # - Are we doing anything? → yes (Productive)
 # - Are we doing the right things? → yes (Effective)
 # - Are we doing things right? → yes (Efficient)
-# - Are we doing Important things? → yes (Important)
+# - Are we doing important things? → yes (Important)
 # - Are we doing urgent things? → no (Non-urgent)
 # Result: Priority P2B, NON_WASTE
 ```
@@ -91,7 +91,7 @@ Based on the answers, it assigns:
 # - Are we doing anything? → yes (Productive)
 # - Are we doing the right things? → yes (Effective)
 # - Are we doing things right? → yes (Efficient)
-# - Are we doing Important things? → no (Unimportant)
+# - Are we doing important things? → no (Unimportant)
 # - Are we doing urgent things? → no (Non-urgent)
 # Result: Priority P3, NON_WASTE
 ```
