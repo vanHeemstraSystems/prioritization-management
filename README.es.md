@@ -1,4 +1,4 @@
-prioritization-management
+gestión-de-priorización
 
 # Gestión de priorización
 
@@ -7,9 +7,9 @@ prioritization-management
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glossary](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
