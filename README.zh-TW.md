@@ -1,10 +1,10 @@
-優先管理
+prioritization-management
 
 # 優先管理
 
 > 斯拉格萊恩
 
--   [DNS](./DNS.md)
+-   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
