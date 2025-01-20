@@ -2,7 +2,7 @@ gestión-de-priorización
 
 # Gestión de priorización
 
-> línea de bala
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
