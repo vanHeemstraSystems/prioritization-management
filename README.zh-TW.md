@@ -2,7 +2,7 @@
 
 # 優先管理
 
-> Slugline
+> 斯拉格萊恩
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
