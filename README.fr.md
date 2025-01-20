@@ -1,4 +1,4 @@
-prioritization-management
+gestion des priorités
 
 # Gestion des priorités
 
@@ -10,16 +10,16 @@ prioritization-management
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
-Texte
+Text
 
 Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
@@ -27,7 +27,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
