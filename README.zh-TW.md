@@ -2,7 +2,7 @@
 
 # 優先管理
 
-> Slugline
+> 斯拉格萊恩
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -19,7 +19,7 @@
 
 生成於[里特爾](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
@@ -31,6 +31,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
