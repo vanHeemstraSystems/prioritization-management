@@ -30,20 +30,21 @@ Based on the answers, it assigns:
 ## How to Use
 
 1. Save the code in a file named `priority_flowchart.py`
-2. Run the code using Python 3 (```$ python App.py```):
+2. [Run the code using Python 3](https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/) (```$ python```):
 
 ```python
-from priority_flowchart import PriorityFlowchart
+>>> from priority_flowchart import PriorityFlowchart
 
 # Create a new flowchart instance
-flowchart = PriorityFlowchart()
+>>> flowchart = PriorityFlowchart()
 
 # Add and evaluate a task
-task = flowchart.add_task("Complete quarterly report", "Financial report for Q3")
+>>> task = flowchart.add_task("Complete quarterly report", "Financial report for Q3")
 
 # Print the task's evaluation results
-flowchart.print_task_status(task)
+>>> flowchart.print_task_status(task)
 ```
+3. Or run ```$ python App.py``` for a set of instructions.
 
 ## Example Tasks and Their Paths
 
