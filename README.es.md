@@ -1,6 +1,6 @@
-nombre-repositorio
+gestión-de-priorización
 
-# Nombre del repositorio
+# Gestión de priorización
 
 > línea de bala
 
