@@ -30,7 +30,7 @@ Based on the answers, it assigns:
 ## How to Use
 
 1. Save the code in a file named `priority_flowchart.py`
-2. Run the code using Python 3:
+2. Run the code using Python 3 (```$ python App.py```):
 
 ```python
 from priority_flowchart import PriorityFlowchart
