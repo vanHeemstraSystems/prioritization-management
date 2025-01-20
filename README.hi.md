@@ -1,6 +1,6 @@
 भंडार-नाम
 
-# Repository Name
+# भंडार का नाम
 
 > स्लगलाइन
 
@@ -9,11 +9,11 @@
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
 मूलपाठ
 
