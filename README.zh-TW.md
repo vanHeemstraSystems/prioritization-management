@@ -1,15 +1,15 @@
-儲存庫名稱
+優先管理
 
-# 儲存庫名稱
+# 優先管理
 
-> 斯拉格萊恩
+> Slugline
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
 -   [圖片](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
@@ -19,7 +19,7 @@
 
 生成於[里特爾](https://app.rytr.me)
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
