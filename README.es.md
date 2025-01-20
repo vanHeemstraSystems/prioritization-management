@@ -6,7 +6,7 @@ gestión-de-priorización
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
