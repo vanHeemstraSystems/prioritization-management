@@ -10,16 +10,16 @@
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
-Text
+मूलपाठ
 
 के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
@@ -33,4 +33,4 @@ Text
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
