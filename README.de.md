@@ -1,6 +1,6 @@
 Priorisierungsmanagement
 
-# Priorisierungsmanagement
+# Prioritization Management
 
 > Slugline
 
@@ -11,7 +11,7 @@ Priorisierungsmanagement
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Zusammenfassung**
 
@@ -19,11 +19,11 @@ Text
 
 Erstellt mit[Ritr](https://app.rytr.me)
 
-## 100 - Einführung
+## 100 - Introduction
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
