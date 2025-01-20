@@ -1,4 +1,4 @@
-Priorisierungsmanagement
+prioritization-management
 
 # Priorisierungsmanagement
 
@@ -11,13 +11,13 @@ Priorisierungsmanagement
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Zusammenfassung**
 
 Text
 
-Erstellt mit[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
