@@ -10,12 +10,12 @@
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
-Text
+文本
 
 生成于[里特尔](https://app.rytr.me)
 
