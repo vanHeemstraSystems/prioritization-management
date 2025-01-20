@@ -1,4 +1,4 @@
-إدارة الأولويات
+prioritization-management
 
 # إدارة الأولويات
 
