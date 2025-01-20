@@ -6,7 +6,7 @@
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [शब्दकोष](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
@@ -19,7 +19,7 @@
 
 के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
