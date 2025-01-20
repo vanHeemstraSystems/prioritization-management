@@ -11,7 +11,7 @@ gestion des priorités
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
@@ -19,7 +19,7 @@ Texte
 
 Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
