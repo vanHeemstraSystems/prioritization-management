@@ -1,6 +1,6 @@
 Repository-Name
 
-# Repository-Name
+# Repository Name
 
 > Slugline
 
@@ -17,11 +17,11 @@ Repository-Name
 
 Text
 
-Erstellt mit[Rytr](https://app.rytr.me)
+Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
