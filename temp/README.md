@@ -8,7 +8,7 @@ The system asks a series of questions about each task to determine:
 1. Productivity (Are we doing anything?)
 2. Effectiveness (Are we doing the right things?)
 3. Efficiency (Are we doing things right?)
-4. Importance (Are we doing Important things?)
+4. Importance (Are we doing important things?)
 5. Urgency (Are we doing urgent things?)
 
 Based on the answers, it assigns:
