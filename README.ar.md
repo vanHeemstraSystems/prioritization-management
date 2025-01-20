@@ -10,14 +10,14 @@
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
--   [مراجع](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
 نص
 
-ولدت مع[Rytr](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100- مقدمة
 
