@@ -4,7 +4,7 @@
 
 > 斯拉格莱恩
 
--   [域名系统](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
@@ -17,7 +17,7 @@
 
 文本
 
-生成于[里特尔](https://app.rytr.me)
+Generated with [里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
