@@ -4,13 +4,13 @@
 
 > 斯拉格萊恩
 
--   [域名系統](./DNS.md)
--   [文件](./DOCUMENTATION.md)
+-   [DNS](./DNS.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
 -   [圖片](./IMAGES.md)
--   [柔和的](./PODMAN.md)
--   [參考](./REFERENCES.md)
+-   [Podman](./PODMAN.md)
+-   [References](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
