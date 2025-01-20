@@ -6,7 +6,7 @@ gestion des priorités
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
@@ -19,7 +19,7 @@ Texte
 
 Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
