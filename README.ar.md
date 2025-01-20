@@ -1,4 +1,4 @@
-prioritization-management
+إدارة الأولويات
 
 # إدارة الأولويات
 
@@ -8,7 +8,7 @@ prioritization-management
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
--   [الصور](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -17,7 +17,7 @@ prioritization-management
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+Generated with [ريتر](https://app.rytr.me)
 
 ## 100- مقدمة
 
