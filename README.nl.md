@@ -8,7 +8,7 @@ prioritering-management
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Beelden](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -17,7 +17,7 @@ prioritering-management
 
 Tekst
 
-Generated with [Ritr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
@@ -25,7 +25,7 @@ Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-Zien[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - onze applicatie bouwen
 
