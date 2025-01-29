@@ -8,7 +8,7 @@ gestión de priorización
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Imágenes](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetría](./TELEMETRY.md)
