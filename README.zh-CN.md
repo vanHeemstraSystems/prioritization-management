@@ -6,7 +6,7 @@
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [词汇表](./GLOSSARY.md)
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
@@ -17,7 +17,7 @@
 
 文本
 
-生成[ritr](https://app.rytr.me)
+Generated with [ritr](https://app.rytr.me)
 
 ## 100-简介
 
