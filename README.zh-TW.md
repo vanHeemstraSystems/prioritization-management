@@ -29,7 +29,7 @@
 
 ## 300-構建我們的應用程序
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400-結論
 
