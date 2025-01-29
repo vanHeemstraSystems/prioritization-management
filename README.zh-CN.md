@@ -10,14 +10,14 @@
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
 文本
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-简介
 
