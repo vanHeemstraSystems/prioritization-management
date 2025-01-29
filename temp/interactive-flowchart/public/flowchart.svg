@@ -1529,7 +1529,70 @@
   <g
      inkscape:label="n-001"
      inkscape:groupmode="layer"
-     id="foo-n-001"
+     id="n-001"
+     transform="translate(0,435.82677)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#00b050;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 472.84376,-263.06632 c 0,-7.1797 5.596,-13 12.5,-13 6.904,0 12.5,5.8203 12.5,13 0,7.1797 -5.596,13 -12.5,13 -6.904,0 -12.5,-5.8203 -12.5,-13 z"
+       stroke-miterlimit="8"
+       id="path3340" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b050"
+       font-weight="400"
+       font-size="24"
+       id="text3344"
+       x="515.99377"
+       y="-255.56642">Start</text>
+  </g>
+  <g
+     inkscape:label="n-001"
+     inkscape:groupmode="layer"
+     id="n-001_current"
+     transform="translate(0,435.82677)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#00b050;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 472.84376,-263.06632 c 0,-7.1797 5.596,-13 12.5,-13 6.904,0 12.5,5.8203 12.5,13 0,7.1797 -5.596,13 -12.5,13 -6.904,0 -12.5,-5.8203 -12.5,-13 z"
+       stroke-miterlimit="8"
+       id="path3340" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b050"
+       font-weight="400"
+       font-size="24"
+       id="text3344"
+       x="515.99377"
+       y="-255.56642">Start</text>
+  </g>
+  <g
+     inkscape:label="n-001"
+     inkscape:groupmode="layer"
+     id="n-001_next"
+     transform="translate(0,435.82677)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#00b050;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 472.84376,-263.06632 c 0,-7.1797 5.596,-13 12.5,-13 6.904,0 12.5,5.8203 12.5,13 0,7.1797 -5.596,13 -12.5,13 -6.904,0 -12.5,-5.8203 -12.5,-13 z"
+       stroke-miterlimit="8"
+       id="path3340" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b050"
+       font-weight="400"
+       font-size="24"
+       id="text3344"
+       x="515.99377"
+       y="-255.56642">Start</text>
+  </g>
+  <g
+     inkscape:label="n-001"
+     inkscape:groupmode="layer"
+     id="n-001_teased"
      transform="translate(0,435.82677)"
      style="display:inline"
      sodipodi:insensitive="true">
