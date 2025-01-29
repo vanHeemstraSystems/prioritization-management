@@ -1,7 +1,7 @@
 {
-    "id": "prioritization-flowchart",
-    "title": "Prioritization Flowchart",
-    "subtitle": "Navigating and narrating complexity through exploration and storytelling",
+    "id": "flowchart-template",
+    "title": "Prioritization Management",
+    "subtitle": "Set priorities through a flowchart.",
     "colors": {
         "background-color": "#F2EEE6",
         "intro-background-color": "#FFFDFA",

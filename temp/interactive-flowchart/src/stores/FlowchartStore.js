@@ -3,7 +3,7 @@ import { defineStore } from 'pinia'
 export const useFlowchartStore = defineStore('flowchart', {
   state: () => ({
     // ID unique to the flowchart, used as key in localStorage
-    flowchartId: 'flowchart-template',
+    flowchartId: 'prioritization-flowchart', // WAS 'flowchart-template'
 
     // nodes and their state
     flowchartNodes: {},

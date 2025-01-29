@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 1052.3622 1488.189"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="flowchart.svg">
+  <title
+     id="title82116">Flowchart</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64104762"
+     inkscape:cx="526.1811"
+     inkscape:cy="731.57211"
+     inkscape:document-units="px"
+     inkscape:current-layer="g54586"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="983"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Flowchart</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="e-028-029"
+     inkscape:label="e-028-029"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#7f7f7f"
+       inkscape:connector-curvature="0"
+       d="m 907.26576,1255.7603 0,36.89 -413.42199,0 0.333,-0.33 0,29.89 -0.666,0 0,-30.22 413.422,0 -0.334,0.33 0,-36.56 z m -409.42199,65.12 -4,8 -4,-8 z"
+       id="path54626" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
+       x="892.84375"
+       y="1348.7604"
+       width="48"
+       height="29"
+       stroke-miterlimit="8"
+       id="rect54870" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-027-029"
+     id="e-027-029"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path67460"
+       d="m 227.51044,1255.7603 0,36.6694 248.61233,0 -0.333,-0.3333 0,29.6695 0.666,0 0,-30.0028 -248.612,0 0.33333,0.3333 0,-36.3361 z m 244.61233,64.6722 4,8 4,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7f7f7f" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-026-028"
+     id="e-026-028"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path66738"
+       d="m 801.51043,1120.7603 0,24.7109 106.09733,0 -0.334,-0.3333 0,81.7104 0.667,0 0,-82.0437 -106.097,0 0.33333,0.3333 0,-24.3776 z m 102.09733,104.755 4,8 4,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <rect
+       id="rect66870"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-025-028"
+     id="e-025-028"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path65930"
+       d="m 625.51043,1115.7603 0,53.7544 282.11233,0 -0.333,-0.3334 0,56.859 0.667,0 0,-57.1923 -282.113,0 0.33333,0.3333 0,-53.421 z m 278.11233,108.946 4,8 4,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-024-028"
+     id="e-024-028"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path65196"
+       d="m 485.51044,1112.7603 0,75.8079 421.73733,0 -0.333,-0.3334 0,38.4925 0.667,0 0,-38.8258 -421.738,0 0.33333,0.3333 0,-75.4745 z m 417.73733,112.634 4,8 4,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-023-028"
+     id="e-023-028"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path64328"
+       d="m 328.51044,1113.7603 0,95.5978 579.21033,0 -0.333,-0.3334 0,17.8606 0.666,0 0,-18.1939 -579.21,0 0.33333,0.3333 0,-95.2644 z m 575.21033,111.792 4,8 4,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <rect
+       id="rect64470"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-022-026"
+     id="e-022-026"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path63542"
+       d="m 801.17676,1058.7533 0.715,34.012 -0.666,0.014 -0.715,-34.012 z m 4.353,32.602 -3.831,8.082 -4.167,-7.914 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <rect
+       id="rect63670"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-021-025"
+     id="e-021-025"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path62746"
+       d="m 626.35351,1057.7529 -0.6937,31.0452 0.6665,0.015 0.6937,-31.0453 z m -4.32966,29.6303 3.82029,8.0873 4.17771,-7.9086 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <rect
+       id="rect62870"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-020-024"
+     id="e-020-024"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path61990"
+       d="m 486.18149,1057.7537 -0.53933,27.2871 0.66653,0.013 0.53934,-27.2871 z m -4.17893,25.8816 3.84112,8.0774 4.15731,-7.9194 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-019-023"
+     id="e-019-023"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path61176"
+       d="m 328.17676,1058.7503 0.815,27.289 -0.66699,0.02 -0.81401,-27.289 z m 4.44,25.847 -3.76,8.116 -4.23699,-7.878 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-018-022"
+     id="e-018-022"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path60324"
+       d="m 683.03676,963.48834 103.405,73.38996 -0.386,0.544 -103.405,-73.38996 z m 104.44,69.62796 4.209,7.892 -8.839,-1.368 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <text
+       id="text60334"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       x="762.67273"
+       y="1015.2603">Yes</text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-018-021"
+     id="e-018-021"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path59522"
+       d="m 628.15252,963.75284 -1.49176,66.32186 0.66649,0.015 1.49177,-66.32186 z m -5.12752,64.90636 3.81909,8.088 4.17889,-7.9081 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <text
+       id="text59536"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       x="590.80676"
+       y="1014.2603">No</text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-017-020"
+     id="e-017-020"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path58792"
+       d="m 383.05477,962.50234 89.619,73.03696 -0.421,0.516 -89.62,-73.03696 z m 90.902,69.35196 3.675,8.155 -8.729,-1.953 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <text
+       id="text58794"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       x="470.65076"
+       y="1015.2603">Yes</text>
+    <rect
+       id="rect58870"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-017-019"
+     id="e-017-019"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       id="text57968"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       x="342.44275"
+       y="1017.2603">No</text>
+    <path
+       id="path57972"
+       d="m 328.04543,962.75796 -0.48749,68.38724 0.66665,0 0.48749,-68.38718 z m -4.14456,67.02774 3.94288,8.0283 4.05692,-7.9712 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-016-018"
+     id="e-016-018"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path57114"
+       d="m 656.78863,906.74867 -1.04446,29.82307 0.66626,0.0234 1.04446,-29.82313 z m -4.66221,28.36227 3.71754,8.1351 4.27756,-7.8551 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-015-017"
+     id="e-015-0176"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path56364"
+       d="m 356.27751,906.7531 -0.62258,28.66564 0.6665,0.0144 0.62259,-28.66556 z m -4.25943,27.25294 3.82534,8.085 4.17277,-7.9113 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-014-016"
+     id="e-014-016"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       id="text55498"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       x="640.27374"
+       y="854.26031">Yes</text>
+    <path
+       id="path55510"
+       d="m 514.01076,811.47234 128.459,74.335 -0.334,0.577 -128.45899,-74.335 z m 129.142,70.494 4.92,7.468 -8.927,-0.544 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-014-015"
+     id="e-014-015"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       id="text53896"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       x="341.51877"
+       y="854.26031">No</text>
+    <path
+       id="path53908"
+       d="m 458.15456,811.49087 -97.11719,70.71327 0.3924,0.5389 97.11721,-70.71323 z m -98.19779,66.96437 -4.113,7.9426 8.822,-1.4754 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0dfb57" />
+    <rect
+       id="rect54070"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="e-013-014"
+     inkscape:label="e-013-014"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#4472c4"
+       inkscape:connector-curvature="0"
+       d="m 646.39839,673.49099 -155.36463,113.27035 0.393,0.539 155.36437,-113.27065 z m -156.44663,109.52235 -4.108,7.945 8.821,-1.481 z"
+       id="path3444-49-7" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
+       x="892.84375"
+       y="1348.7604"
+       width="48"
+       height="29"
+       stroke-miterlimit="8"
+       id="rect3620-74-1" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-012-027"
+     id="e-012-027"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path53230"
+       d="m 228.17676,752.96861 0.175,475.98389 -0.66699,0.01 -0.17401,-475.99129 z m 3.841,474.98929 -3.998,5.9824 -4.002,-5.9824 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7f7f7f" />
+    <path
+       id="path53234"
+       stroke-miterlimit="8"
+       d="m 348.31576,673.76034 -120.472,80.2449"
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:0.66666698;stroke-miterlimit:8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-011-013"
+     id="e-011-013"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path52270"
+       d="m 513.00776,583.47034 128.498,72.465 -0.327,0.58 -128.499,-72.465 z m 129.138,68.616 5.00301,7.414 -8.933,-0.446 z"
+       inkscape:connector-curvature="0"
+       style="fill:#4472c4" />
+    <text
+       id="text52332"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       x="527.29779"
+       y="630.26031">Yes</text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-011-012"
+     id="e-011-012"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path51466"
+       d="m 457.06811,583.48974 -95.00695,68.3409 0.3893,0.5412 95.00695,-68.3409 z m -96.06565,64.5858 -4.1587,7.9187 8.8302,-1.4244 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7030a0" />
+    <text
+       id="text51468"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7030a0"
+       x="419.76276"
+       y="633.26031">No</text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-010-027"
+     id="e-010-027"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path50830"
+       d="m 228.17676,664.3231 0.175,563.7101 -0.66699,0.01 -0.17401,-563.7189 z m 3.841,562.5322 -3.998,7.085 -4.002,-7.085 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7f7f7f" />
+    <path
+       id="path50832"
+       stroke-miterlimit="8"
+       d="m 345.97476,586.76034 -118.131,78.1077"
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:0.66666698;stroke-miterlimit:8" />
+    <rect
+       id="rect50870"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+    <text
+       id="text51296"
+       transform="matrix(0.83864473,-0.54467882,0.54467882,0.83864473,0,0)"
+       font-size="13"
+       font-weight="400"
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+       x="-122.11723"
+       y="697.25073">e</text>
+    <text
+       id="text51298"
+       transform="matrix(0.83864473,-0.54467882,0.54467882,0.83864473,0,0)"
+       font-size="13"
+       font-weight="400"
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+       x="-115.24964"
+       y="696.94147">-</text>
+    <text
+       id="text51300"
+       transform="matrix(0.83864473,-0.54467882,0.54467882,0.83864473,0,0)"
+       font-size="13"
+       font-weight="400"
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+       x="-111.34663"
+       y="697.09161">010</text>
+    <text
+       id="text51302"
+       transform="matrix(0.83864473,-0.54467882,0.54467882,0.83864473,0,0)"
+       font-size="13"
+       font-weight="400"
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+       x="-90.937187"
+       y="697.23059">-</text>
+    <text
+       id="text51304"
+       transform="matrix(0.83864473,-0.54467882,0.54467882,0.83864473,0,0)"
+       font-size="13"
+       font-weight="400"
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+       x="-86.489487"
+       y="696.54211">027</text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-009-027"
+     id="e-009-027"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path50030"
+       d="m 228.17676,590.76034 0.175,636.50996 -0.66699,0.01 -0.17401,-636.51996 z m 3.841,635.17996 -3.998,8 -4.002,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7f7f7f" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-008-010"
+     id="e-008-010"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path49084"
+       d="m 909.91143,295.75949 -2.38374,930.22481 0.66667,10e-4 2.38373,-930.22411 z m -6.047,928.89081 3.97949,8.01 4.02049,-7.99 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000" />
+    <path
+       id="path49220"
+       d="m 356.17677,517.75834 0.334,44.426 -0.667,0.005 -0.333,-44.426 z m 3.99,43.065 -3.94,8.03 -4.06,-7.97 z"
+       inkscape:connector-curvature="0"
+       style="fill:#4472c4" />
+    <text
+       id="text49226"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       x="368.01877"
+       y="546.26031">Yes</text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-008-009"
+     id="e-008-009"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path48414"
+       d="m 330.06811,498.48974 -95.00695,68.3409 0.3893,0.5412 95.00695,-68.3409 z m -96.06565,64.5858 -4.1587,7.9187 8.8302,-1.4244 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7030a0" />
+    <text
+       id="text48424"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7030a0"
+       x="223.27975"
+       y="544.26031">No</text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-007-011"
+     id="e-007-011"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path47448"
+       d="m 644.72324,449.48893 -154.64448,110.26641 0.387,0.543 154.64452,-110.2666 z m -155.68748,106.50741 -4.192,7.901 8.836,-1.388 z"
+       inkscape:connector-curvature="0"
+       style="fill:#4472c4" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-006-008"
+     id="e-006-008"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path46828"
+       d="m 356.17677,452.76034 0,19.494 -0.666,0 0,-19.494 z m 3.667,18.16 -4,8 -4,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7f7f7f" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-005-007"
+     id="e-005-007"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path41038"
+       d="m 514.01176,357.47234 125.855,73.3 -0.335,0.576 -125.856,-73.3 z m 126.548,69.461 4.9,7.482 -8.926,-0.569 z"
+       inkscape:connector-curvature="0"
+       style="fill:#4472c4" />
+    <text
+       id="text41058"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#4472c4"
+       x="639.99878"
+       y="399.26035">Yes</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="e-005-006"
+     inkscape:label="e-005-006"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#7f7f7f"
+       inkscape:connector-curvature="0"
+       d="m 458.67496,357.48913 -97.6009,69.74261 0.3876,0.5424 97.6009,-69.74259 z m -98.6478,65.98401 -4.1834,7.9057 8.8346,-1.3967 z"
+       id="path41854" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7f7f7f"
+       font-weight="400"
+       font-size="24"
+       id="text41856"
+       x="340.38678"
+       y="399.26035">No</text>
+    <path
+       style="fill:#0dfb57"
+       inkscape:connector-curvature="0"
+       d="m 328.51044,1113.7603 0,95.5978 579.21033,0 -0.333,-0.3334 0,17.8606 0.666,0 0,-18.1939 -579.21,0 0.33333,0.3333 0,-95.2644 z m 575.21033,111.792 4,8 4,-8 z"
+       id="path41928" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-004-028"
+     id="e-004-028"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path42684"
+       d="m 909.91143,295.75949 -2.38374,930.22481 0.66667,10e-4 2.38373,-930.22411 z m -6.047,928.89081 3.97949,8.01 4.02049,-7.99 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000" />
+    <rect
+       id="rect42870"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="e-003-005"
+     inkscape:label="e-003-005"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffc000"
+       inkscape:connector-curvature="0"
+       d="m 485.17677,294.75134 0.92,35.835 -0.666,0.017 -0.92,-35.834 z m 4.552,34.408 -3.794,8.1 -4.204,-7.895 z"
+       id="path43486" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
+       x="892.84375"
+       y="1348.7604"
+       width="48"
+       height="29"
+       stroke-miterlimit="8"
+       id="rect43670" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-002-004"
+     id="e-002-004"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path44204"
+       d="m 512.84376,227.42704 397.304,0 0,39.9543 -0.667,0 0,-39.6209 0.333,0.3333 -396.97,0 z m 400.97,38.6213 -4,8 -4,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000" />
+    <text
+       id="text44206"
+       font-size="24"
+       font-weight="400"
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ff0000"
+       x="529.86975"
+       y="215.26035">No</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="e-002-003"
+     inkscape:label="e-002-003"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ffc000"
+       font-weight="400"
+       font-size="24"
+       id="text45008"
+       x="442.27377"
+       y="260.26035">Yes</text>
+    <path
+       style="fill:#ffc000"
+       inkscape:connector-curvature="0"
+       d="m 484.75945,247.757 -0.18213,18.15124 0.66663,0.007 0.18214,-18.15126 z m -3.83524,16.78114 3.91953,8.0397 4.08007,-7.9594 z"
+       id="path45010" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
+       x="892.84375"
+       y="1348.7604"
+       width="48"
+       height="29"
+       stroke-miterlimit="8"
+       id="rect45270" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="e-001-002"
+     id="e-001-002"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       id="path45818"
+       d="m 485.51044,185.76044 -1.5e-4,15.0674 0.66667,0 1.4e-4,-15.0674 z m -3.6668,13.734 3.99992,8.0001 4.00008,-8 z"
+       inkscape:connector-curvature="0"
+       style="fill:#7f7f7f" />
+    <rect
+       id="rect46070"
+       stroke-miterlimit="8"
+       height="29"
+       width="48"
+       y="1348.7604"
+       x="892.84375"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-029"
+     inkscape:label="n-029"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 472.84377,1337.7603 c 0,-7.18 5.596,-13 12.5,-13 6.904,0 12.5,5.82 12.5,13 0,7.18 -5.596,13 -12.5,13 -6.904,0 -12.5,-5.82 -12.5,-13 z"
+       stroke-miterlimit="8"
+       id="path3342-652" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ff0000"
+       font-weight="400"
+       font-size="24"
+       id="text3346-14"
+       x="525.12378"
+       y="1343.2603">Finish</text>
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
+       x="892.84375"
+       y="1348.7604"
+       width="48"
+       height="29"
+       stroke-miterlimit="8"
+       id="rect3620-74" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-028"
+     inkscape:label="n-028"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 894.84376,1244.2603 c 0,-6.35 5.82,-11.5 13,-11.5 7.18,0 13,5.15 13,11.5 0,6.35 -5.82,11.5 -13,11.5 -7.18,0 -13,-5.15 -13,-11.5 z"
+       stroke-miterlimit="8"
+       id="path3370-57" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7f7f7f"
+       font-weight="400"
+       font-size="24"
+       id="text3372-29"
+       x="838.68176"
+       y="1249.2603">No</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7f7f7f"
+       font-weight="400"
+       font-size="24"
+       id="text3374-77"
+       x="838.68176"
+       y="1278.2603">Waste</text>
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
+       x="892.84375"
+       y="1348.7604"
+       width="48"
+       height="29"
+       stroke-miterlimit="8"
+       id="rect3620-237" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-027"
+     inkscape:label="n-027"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7f7f7f"
+       font-weight="400"
+       font-size="24"
+       id="text3378-79"
+       x="249.79176"
+       y="1253.2603">Waste</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 214.84377,1244.7603 c 0,-6.08 5.81999,-11 13,-11 7.18,0 13,4.92 13,11 0,6.08 -5.82,11 -13,11 -7.18001,0 -13,-4.92 -13,-11 z"
+       stroke-miterlimit="8"
+       id="path3380-58" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-026"
+     inkscape:label="n-026"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 788.84376,1110.2603 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3490-627" />
+    <path
+       style="fill:#7f7f7f;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 822.34376,1094.4273 c 0,-3.406 2.761,-6.167 6.167,-6.167 l 56.66601,0 c 3.40599,0 6.167,2.761 6.167,6.167 l 0,24.666 c 0,3.406 -2.761,6.167 -6.167,6.167 l -56.666,0 c -3.40601,0 -6.16701,-2.761 -6.16701,-6.167 z"
+       id="path3500-26" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ffffff"
+       font-weight="400"
+       font-size="24"
+       id="text3528-92"
+       x="838.06177"
+       y="1116.2603">I/U</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3588-60"
+       x="839.60077"
+       y="1138.2603">Prio 1</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-025"
+     inkscape:label="n-025"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 612.84376,1105.7603 c 0,-5.523 5.596,-10 12.5,-10 6.904,0 12.5,4.477 12.5,10 0,5.523 -5.596,10 -12.5,10 -6.904,0 -12.5,-4.477 -12.5,-10 z"
+       stroke-miterlimit="8"
+       id="path3494-63" />
+    <path
+       style="fill:#7f7f7f;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 650.34376,1092.4273 c 0,-3.406 2.761,-6.167 6.167,-6.167 l 64.66601,0 c 3.40599,0 6.167,2.761 6.167,6.167 l 0,24.666 c 0,3.406 -2.761,6.167 -6.167,6.167 l -64.666,0 c -3.40601,0 -6.16701,-2.761 -6.16701,-6.167 z"
+       id="path3498-791" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ffffff"
+       font-weight="400"
+       font-size="24"
+       id="text3502-93"
+       x="663.66174"
+       y="1112.2603">I/nU</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3590-19"
+       x="667.09076"
+       y="1138.2603">Prio 2.B</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-024"
+     inkscape:label="n-024"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#7f7f7f;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 505.34377,1090.7603 c 0,-3.59 2.91,-6.5 6.5,-6.5 l 53.99999,0 c 3.59,0 6.5,2.91 6.5,6.5 l 0,26 c 0,3.59 -2.91,6.5 -6.5,6.5 l -53.99999,0 c -3.59,0 -6.5,-2.91 -6.5,-6.5 z"
+       id="path3530-50" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ffffff"
+       font-weight="400"
+       font-size="24"
+       id="text3532-32"
+       x="515.62177"
+       y="1112.2603">uI/U</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 473.84377,1102.2603 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3538-77" />
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3592-55"
+       x="516.06775"
+       y="1142.2603">Prio 2.A</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-023"
+     inkscape:label="n-023"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#7f7f7f;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 347.34377,1091.7603 c 0,-3.59 2.91,-6.5 6.5,-6.5 l 62,0 c 3.58999,0 6.5,2.91 6.5,6.5 l 0,26 c 0,3.59 -2.91001,6.5 -6.5,6.5 l -62,0 c -3.59,0 -6.5,-2.91 -6.5,-6.5 z"
+       id="path3504-49" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ffffff"
+       font-weight="400"
+       font-size="24"
+       id="text3506-7"
+       x="358.14877"
+       y="1113.2603">uI/nU</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 315.84377,1103.2603 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3524-929" />
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3594-37"
+       x="370.48877"
+       y="1141.2603">Prio 3</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-022"
+     inkscape:label="n-022"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3468-44"
+       x="822.96179"
+       y="1056.2603">Urgent</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 787.84376,1048.2603 c 0,-5.799 5.82,-10.5 13,-10.5 7.18,0 13,4.701 13,10.5 0,5.799 -5.82,10.5 -13,10.5 -7.18,0 -13,-4.701 -13,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3476-62" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
+       x="892.84375"
+       y="1348.7604"
+       width="48"
+       height="29"
+       stroke-miterlimit="8"
+       id="rect3620-03" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-021"
+     inkscape:label="n-021"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3466-47"
+       x="646.66376"
+       y="1055.2603">Not Urgent</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 613.84376,1047.2603 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3470-49" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-020"
+     inkscape:label="n-020"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3534-74"
+       x="506.78476"
+       y="1055.2603">Urgent</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 473.84377,1047.2603 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3536-404" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-019"
+     inkscape:label="n-019"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ff0000"
+       inkscape:connector-curvature="0"
+       d="m 909.91143,295.75949 -2.38374,930.22481 0.66667,10e-4 2.38373,-930.22411 z m -6.047,928.89081 3.97949,8.01 4.02049,-7.99 z"
+       id="path3434-515" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3516-0"
+       x="350.99576"
+       y="1056.2603">Not Urgent</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 314.84377,1048.2603 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3520-5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-018"
+     inkscape:label="n-018"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 627.84376,964.26034 27.5,-20.5 27.5,20.5 -27.5,20.5 z"
+       stroke-miterlimit="8"
+       id="path3462-96" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3508-25"
+       x="424.60776"
+       y="952.26031">Are we Doing the</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3510-18"
+       x="424.60776"
+       y="981.26031">Urgent Thing(s)?</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-017"
+     inkscape:label="n-017"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3508-29"
+       x="424.60776"
+       y="952.26031">Are we Doing the</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3510-903"
+       x="424.60776"
+       y="981.26031">Urgent Thing(s)?</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 327.84377,962.76034 27.5,-20 27.5,20 -27.5,20 z"
+       stroke-miterlimit="8"
+       id="path3512-55" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-016"
+     inkscape:label="n-016"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3452-12"
+       x="538.18774"
+       y="902.26031">Important</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 643.84376,896.76034 c 0,-5.523 5.82,-10 13,-10 7.18,0 13,4.477 13,10 0,5.523 -5.82,10 -13,10 -7.18,0 -13,-4.477 -13,-10 z"
+       stroke-miterlimit="8"
+       id="path3456-3" />
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3612-65"
+       x="551.71674"
+       y="920.26031">Prio 1 or 2.B</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-015"
+     inkscape:label="n-015"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3450-45"
+       x="379.52777"
+       y="903.26031">Unimportant</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 343.84377,896.76034 c 0,-5.523 5.596,-10 12.5,-10 6.904,0 12.5,4.477 12.5,10 0,5.523 -5.596,10 -12.5,10 -6.904,0 -12.5,-4.477 -12.5,-10 z"
+       stroke-miterlimit="8"
+       id="path3454-99" />
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3614-54"
+       x="408.19775"
+       y="919.26031">Prio 2.A or 3</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-014"
+     inkscape:label="n-014"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0dfb57;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 458.84377,811.76034 27.5,-20 27.49999,20 -27.49999,20 z"
+       stroke-miterlimit="8"
+       id="path3438-71" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3440-0"
+       x="550.89276"
+       y="780.26031">Are we Doing the</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="24"
+       id="text3442-94"
+       x="550.89276"
+       y="809.26031">Important Thing(s)?</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-013"
+     inkscape:label="n-013"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#4472c4;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 642.84376,666.76034 c 0,-5.523 5.82,-10 13,-10 7.18,0 13,4.477 13,10 0,5.523 -5.82,10 -13,10 -7.18,0 -13,-4.477 -13,-10 z"
+       stroke-miterlimit="8"
+       id="path3390-66" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="24"
+       id="text3392-50"
+       x="549.40576"
+       y="672.26031">Efficient</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="13"
+       id="text3602-6"
+       x="567.60779"
+       y="690.26031">Prio 4.A</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-012"
+     inkscape:label="n-012"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#7030a0;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 344.84377,666.26034 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3412-2" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7030a0"
+       font-weight="400"
+       font-size="24"
+       id="text3414-41"
+       x="380.39276"
+       y="674.26031">Inefficient</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7030a0"
+       font-weight="400"
+       font-size="13"
+       id="text3600-1"
+       x="409.38376"
+       y="691.26031">Prio 5</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-011"
+     inkscape:label="n-011"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#4472c4;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 457.84377,583.76034 27.5,-20 27.49999,20 -27.49999,20 z"
+       stroke-miterlimit="8"
+       id="path3382-9" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="24"
+       id="text3384-88"
+       x="553.70178"
+       y="558.26031">Are we Doing the</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="24"
+       id="text3386-6"
+       x="553.70178"
+       y="587.26031">Thing(s) Right?</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-010"
+     inkscape:label="n-010"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#4472c4;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 343.84377,579.26034 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3568-8" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="24"
+       id="text3572-9"
+       x="258.61377"
+       y="586.26031">Efficient</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="13"
+       id="text3616-8"
+       x="265.83075"
+       y="605.26031">Prio 4.B</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-009"
+     inkscape:label="n-009"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7030a0"
+       font-weight="400"
+       font-size="24"
+       id="text3562-95"
+       x="106.75967"
+       y="587.26031">Inefficient</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#7030a0;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 215.84377,580.26034 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3566-3" />
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7030a0"
+       font-weight="400"
+       font-size="13"
+       id="text3618-36"
+       x="142.23267"
+       y="605.26031">Prio 5</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-008"
+     inkscape:label="n-008"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="24"
+       id="text3558-4"
+       x="157.86575"
+       y="475.26035">Are we Doing the</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="24"
+       id="text3560-13"
+       x="157.86575"
+       y="504.26035">Thing(s) Right?</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#00b0f0;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 328.84377,499.26034 27.5,-20.5 27.5,20.5 -27.5,20.5 z"
+       stroke-miterlimit="8"
+       id="path3586-4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-007"
+     inkscape:label="n-007"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#4472c4;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 641.84376,442.26034 c 0,-5.799 5.596,-10.5 12.5,-10.5 6.904,0 12.5,4.701 12.5,10.5 0,5.799 -5.596,10.5 -12.5,10.5 -6.904,0 -12.5,-4.701 -12.5,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3394-23" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#4472c4"
+       font-weight="400"
+       font-size="24"
+       id="text3396-49"
+       x="550.24878"
+       y="449.26035">Effective</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3604-89"
+       x="563.93475"
+       y="467.26035">Prio 1, 2.A,</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
+       font-weight="400"
+       font-size="13"
+       id="text3606-58"
+       x="558.60175"
+       y="483.26035">2.B, 3</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13"
+       id="text3608-53"
+       x="589.26776"
+       y="483.26035">, or</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b0f0"
+       font-weight="400"
+       font-size="13"
+       id="text3610-5"
+       x="610.26776"
+       y="483.26035">4.A</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-006"
+     inkscape:label="n-006"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7f7f7f"
+       font-weight="400"
+       font-size="24"
+       id="text3400-0"
+       x="379.82077"
+       y="449.26035">Ineffective</text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 342.84377,442.26034 c 0,-5.799 5.81999,-10.5 13,-10.5 7.18,0 13,4.701 13,10.5 0,5.799 -5.82,10.5 -13,10.5 -7.18001,0 -13,-4.701 -13,-10.5 z"
+       stroke-miterlimit="8"
+       id="path3402-0" />
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13"
+       id="text3598-42"
+       x="396.34576"
+       y="467.26035">Prio 4.B or 5</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-005"
+     inkscape:label="n-005"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#4472c4;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 458.84377,358.26034 27.5,-20.5 27.49999,20.5 -27.49999,20.5 z"
+       stroke-miterlimit="8"
+       id="path3362-4" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#4472c4"
+       font-weight="400"
+       font-size="24"
+       id="text3364-9"
+       x="541.11273"
+       y="333.26035">Are we Doing the</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#4472c4"
+       font-weight="400"
+       font-size="24"
+       id="text3366-51"
+       x="541.11273"
+       y="362.26035">Right Thing(s)?</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-004"
+     inkscape:label="n-004"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 896.84376,284.76034 c 0,-6.075 5.82,-11 13,-11 7.18,0 13,4.925 13,11 0,6.075 -5.82,11 -13,11 -7.18,0 -13,-4.925 -13,-11 z"
+       stroke-miterlimit="8"
+       id="path3422-44" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ff0000"
+       font-weight="400"
+       font-size="24"
+       id="text3424-9"
+       x="787.49774"
+       y="277.26035">Non</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ff0000"
+       font-weight="400"
+       font-size="24"
+       id="text3426-2"
+       x="828.33075"
+       y="277.26035">-</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ff0000"
+       font-weight="400"
+       font-size="24"
+       id="text3428-4"
+       x="787.49774"
+       y="306.26035">Productive</text>
+    <text
+       style="font-weight:400;font-size:13px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ff0000"
+       font-weight="400"
+       font-size="13"
+       id="text3596-16"
+       x="809.20276"
+       y="328.26035">Prio 6</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-003"
+     inkscape:label="n-003"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffc000;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 471.84377,283.76034 c 0,-6.075 5.81999,-11 13,-11 7.18,0 13,4.925 13,11 0,6.075 -5.82,11 -13,11 -7.18001,0 -13,-4.925 -13,-11 z"
+       stroke-miterlimit="8"
+       id="path3430-3" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#ffc000"
+       font-weight="400"
+       font-size="24"
+       id="text3432-1"
+       x="505.97577"
+       y="292.26035">Productive</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="n-002"
+     inkscape:label="n-002"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 457.84377,227.26044 27.5,-20.5 27.49999,20.5 -27.49999,20.4999 z"
+       stroke-miterlimit="8"
+       id="path3348-6" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7f7f7f"
+       font-weight="400"
+       font-size="24"
+       id="text3350-2"
+       x="308.34677"
+       y="216.26035">Are we Doing</text>
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#7f7f7f"
+       font-weight="400"
+       font-size="24"
+       id="text3352-2"
+       x="308.34677"
+       y="245.26035">the Thing(s)?</text>
+  </g>
+  <g
+     inkscape:label="n-001"
+     inkscape:groupmode="layer"
+     id="n-001"
+     transform="translate(0,435.82677)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#00b050;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1.33333004;stroke-miterlimit:8"
+       inkscape:connector-curvature="0"
+       d="m 472.84376,-263.06632 c 0,-7.1797 5.596,-13 12.5,-13 6.904,0 12.5,5.8203 12.5,13 0,7.1797 -5.596,13 -12.5,13 -6.904,0 -12.5,-5.8203 -12.5,-13 z"
+       stroke-miterlimit="8"
+       id="path3340" />
+    <text
+       style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#00b050"
+       font-weight="400"
+       font-size="24"
+       id="text3344"
+       x="515.99377"
+       y="-255.56642">Start</text>
+  </g>
+</svg>
