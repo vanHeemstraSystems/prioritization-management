@@ -1,6 +1,6 @@
 gestión de priorización
 
-# Prioritization Management
+# Gestión de priorización
 
 > Línea de babosa
 
