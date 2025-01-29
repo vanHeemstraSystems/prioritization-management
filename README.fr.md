@@ -17,7 +17,7 @@ Management de priorisation
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
