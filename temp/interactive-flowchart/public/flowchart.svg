@@ -62,19 +62,11 @@
        inkscape:connector-curvature="0"
        d="m 907.26576,1255.7603 0,36.89 -413.42199,0 0.333,-0.33 0,29.89 -0.666,0 0,-30.22 413.422,0 -0.334,0.33 0,-36.56 z m -409.42199,65.12 -4,8 -4,-8 z"
        id="path54626" />
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
-       x="892.84375"
-       y="1348.7604"
-       width="48"
-       height="29"
-       stroke-miterlimit="8"
-       id="rect54870" />
   </g>
   <g
      style="display:inline"
      inkscape:label="e-027-029"
-     id="foo-e-027-029"
+     id="e-027-029"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -94,19 +86,11 @@
        d="m 801.51043,1120.7603 0,24.7109 106.09733,0 -0.334,-0.3333 0,81.7104 0.667,0 0,-82.0437 -106.097,0 0.33333,0.3333 0,-24.3776 z m 102.09733,104.755 4,8 4,-8 z"
        inkscape:connector-curvature="0"
        style="fill:#0dfb57" />
-    <rect
-       id="rect66870"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      style="display:inline"
      inkscape:label="e-025-028"
-     id="foo-e-025-028"
+     id="e-025-028"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -118,7 +102,7 @@
   <g
      style="display:inline"
      inkscape:label="e-024-028"
-     id="foo-e-024-028"
+     id="e-024-028"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -130,7 +114,7 @@
   <g
      style="display:inline"
      inkscape:label="e-023-028"
-     id="foo-e-023-028"
+     id="e-023-028"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -138,14 +122,6 @@
        d="m 328.51044,1113.7603 0,95.5978 579.21033,0 -0.333,-0.3334 0,17.8606 0.666,0 0,-18.1939 -579.21,0 0.33333,0.3333 0,-95.2644 z m 575.21033,111.792 4,8 4,-8 z"
        inkscape:connector-curvature="0"
        style="fill:#0dfb57" />
-    <rect
-       id="rect64470"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      style="display:inline"
@@ -158,19 +134,11 @@
        d="m 801.17676,1058.7533 0.715,34.012 -0.666,0.014 -0.715,-34.012 z m 4.353,32.602 -3.831,8.082 -4.167,-7.914 z"
        inkscape:connector-curvature="0"
        style="fill:#0dfb57" />
-    <rect
-       id="rect63670"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      style="display:inline"
      inkscape:label="e-021-025"
-     id="foo-e-021-025"
+     id="e-021-025"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -178,19 +146,11 @@
        d="m 626.35351,1057.7529 -0.6937,31.0452 0.6665,0.015 0.6937,-31.0453 z m -4.32966,29.6303 3.82029,8.0873 4.17771,-7.9086 z"
        inkscape:connector-curvature="0"
        style="fill:#0dfb57" />
-    <rect
-       id="rect62870"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      style="display:inline"
      inkscape:label="e-020-024"
-     id="foo-e-020-024"
+     id="e-020-024"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -202,7 +162,7 @@
   <g
      style="display:inline"
      inkscape:label="e-019-023"
-     id="foo-e-019-023"
+     id="e-019-023"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -233,7 +193,7 @@
   <g
      style="display:inline"
      inkscape:label="e-018-021"
-     id="foo-e-018-021"
+     id="e-018-021"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -252,7 +212,7 @@
   <g
      style="display:inline"
      inkscape:label="e-017-020"
-     id="foo-e-017-020"
+     id="e-017-020"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -267,19 +227,11 @@
        style="font-weight:400;font-size:24px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#0dfb57"
        x="470.65076"
        y="1015.2603">Yes</text>
-    <rect
-       id="rect58870"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      style="display:inline"
      inkscape:label="e-017-019"
-     id="foo-e-017-019"
+     id="e-017-019"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <text
@@ -310,7 +262,7 @@
   <g
      style="display:inline"
      inkscape:label="e-015-017"
-     id="foo-e-015-0176"
+     id="e-015-0176"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -341,7 +293,7 @@
   <g
      style="display:inline"
      inkscape:label="e-014-015"
-     id="foo-e-014-015"
+     id="e-014-015"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <text
@@ -356,14 +308,6 @@
        d="m 458.15456,811.49087 -97.11719,70.71327 0.3924,0.5389 97.11721,-70.71323 z m -98.19779,66.96437 -4.113,7.9426 8.822,-1.4754 z"
        inkscape:connector-curvature="0"
        style="fill:#0dfb57" />
-    <rect
-       id="rect54070"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -376,19 +320,11 @@
        inkscape:connector-curvature="0"
        d="m 646.39839,673.49099 -155.36463,113.27035 0.393,0.539 155.36437,-113.27065 z m -156.44663,109.52235 -4.108,7.945 8.821,-1.481 z"
        id="path3444-49-7" />
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
-       x="892.84375"
-       y="1348.7604"
-       width="48"
-       height="29"
-       stroke-miterlimit="8"
-       id="rect3620-74-1" />
   </g>
   <g
      style="display:inline"
      inkscape:label="e-012-027"
-     id="foo-e-012-027"
+     id="e-012-027"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -425,7 +361,7 @@
   <g
      style="display:inline"
      inkscape:label="e-011-012"
-     id="foo-e-011-012"
+     id="e-011-012"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -444,7 +380,7 @@
   <g
      style="display:inline"
      inkscape:label="e-010-027"
-     id="foo-e-010-027"
+     id="e-010-027"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -458,14 +394,6 @@
        d="m 345.97476,586.76034 -118.131,78.1077"
        inkscape:connector-curvature="0"
        style="fill:none;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:0.66666698;stroke-miterlimit:8" />
-    <rect
-       id="rect50870"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
     <text
        id="text51296"
        transform="matrix(0.83864473,-0.54467882,0.54467882,0.83864473,0,0)"
@@ -510,7 +438,7 @@
   <g
      style="display:inline"
      inkscape:label="e-009-027"
-     id="foo-e-009-027"
+     id="e-009-027"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -522,7 +450,7 @@
   <g
      style="display:inline"
      inkscape:label="e-008-010"
-     id="foo-e-008-010"
+     id="e-008-010"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -546,7 +474,7 @@
   <g
      style="display:inline"
      inkscape:label="e-008-009"
-     id="foo-e-008-009"
+     id="e-008-009"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -577,7 +505,7 @@
   <g
      style="display:inline"
      inkscape:label="e-006-008"
-     id="foo-e-006-008"
+     id="e-006-008"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
@@ -607,7 +535,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="foo-e-005-006"
+     id="e-005-006"
      inkscape:label="e-005-006"
      style="display:inline"
      sodipodi:insensitive="true">
@@ -640,14 +568,6 @@
        d="m 909.91143,295.75949 -2.38374,930.22481 0.66667,10e-4 2.38373,-930.22411 z m -6.047,928.89081 3.97949,8.01 4.02049,-7.99 z"
        inkscape:connector-curvature="0"
        style="fill:#ff0000" />
-    <rect
-       id="rect42870"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -660,14 +580,6 @@
        inkscape:connector-curvature="0"
        d="m 485.17677,294.75134 0.92,35.835 -0.666,0.017 -0.92,-35.834 z m 4.552,34.408 -3.794,8.1 -4.204,-7.895 z"
        id="path43486" />
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
-       x="892.84375"
-       y="1348.7604"
-       width="48"
-       height="29"
-       stroke-miterlimit="8"
-       id="rect43670" />
   </g>
   <g
      style="display:inline"
@@ -706,14 +618,6 @@
        inkscape:connector-curvature="0"
        d="m 484.75945,247.757 -0.18213,18.15124 0.66663,0.007 0.18214,-18.15126 z m -3.83524,16.78114 3.91953,8.0397 4.08007,-7.9594 z"
        id="path45010" />
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
-       x="892.84375"
-       y="1348.7604"
-       width="48"
-       height="29"
-       stroke-miterlimit="8"
-       id="rect45270" />
   </g>
   <g
      style="display:inline"
@@ -726,14 +630,6 @@
        d="m 485.51044,185.76044 -1.5e-4,15.0674 0.66667,0 1.4e-4,-15.0674 z m -3.6668,13.734 3.99992,8.0001 4.00008,-8 z"
        inkscape:connector-curvature="0"
        style="fill:#7f7f7f" />
-    <rect
-       id="rect46070"
-       stroke-miterlimit="8"
-       height="29"
-       width="48"
-       y="1348.7604"
-       x="892.84375"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -754,14 +650,6 @@
        id="text3346-14"
        x="525.12378"
        y="1343.2603">Finish</text>
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
-       x="892.84375"
-       y="1348.7604"
-       width="48"
-       height="29"
-       stroke-miterlimit="8"
-       id="rect3620-74" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -789,14 +677,6 @@
        id="text3374-77"
        x="838.68176"
        y="1278.2603">Waste</text>
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
-       x="892.84375"
-       y="1348.7604"
-       width="48"
-       height="29"
-       stroke-miterlimit="8"
-       id="rect3620-237" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -965,14 +845,6 @@
        d="m 787.84376,1048.2603 c 0,-5.799 5.82,-10.5 13,-10.5 7.18,0 13,4.701 13,10.5 0,5.799 -5.82,10.5 -13,10.5 -7.18,0 -13,-4.701 -13,-10.5 z"
        stroke-miterlimit="8"
        id="path3476-62" />
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.33333004;stroke-miterlimit:8"
-       x="892.84375"
-       y="1348.7604"
-       width="48"
-       height="29"
-       stroke-miterlimit="8"
-       id="rect3620-03" />
   </g>
   <g
      inkscape:groupmode="layer"
