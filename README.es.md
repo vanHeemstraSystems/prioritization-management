@@ -1,4 +1,4 @@
-gestión de priorización
+prioritization-management
 
 # Gestión de priorización
 
@@ -11,7 +11,7 @@ gestión de priorización
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Telemetría](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
