@@ -1,10 +1,10 @@
-0.000000	0.000000	n-001
-1.000000	1.000000	n-002
-2.000000	2.000000	n-004
-3.000000	3.000000	n-028
-4.000000	4.000000	n-029
-5.000000	5.000000	n-002
-6.000000	6.000000	n-003
+0.000000	0.000000	n-001   Starting with a task, we can ask ourselves ...
+1.000000	1.000000	n-002   With this task, are we doing the thing or things?
+2.000000	2.000000	n-004   If the answer is no, we are non-productive.
+3.000000	3.000000	n-028   There is no waste of time or resources.
+4.000000	4.000000	n-029   Therefore we finish without doing the task.
+5.000000	5.000000	n-002   With this task, are we doing the thing or things?
+6.000000	6.000000	n-003   If the answer is yes, we are productive.
 7.000000	7.000000	n-005
 8.000000	8.000000	n-006
 9.000000	9.000000	n-008
