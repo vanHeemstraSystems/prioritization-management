@@ -1,6 +1,6 @@
 prioritering-management
 
-# Prioritization Management
+# Prioritisatiebeheer
 
 > Sluglijn
 
