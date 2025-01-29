@@ -1,4 +1,4 @@
-prioritization-management
+prioritering-management
 
 # Prioritization Management
 
@@ -15,19 +15,19 @@ prioritization-management
 
 **Uitvoerende samenvatting**
 
-Text
+Tekst
 
-Generated with [Ritr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Inleiding
 
-See [README.md](./100/README.md)
+Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
 Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
