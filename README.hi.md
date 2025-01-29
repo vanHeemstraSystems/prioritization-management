@@ -5,12 +5,12 @@
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
--   [प्रलेखन](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [सबमैन](./PODMAN.md)
--   [संदर्भ](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
@@ -31,6 +31,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
