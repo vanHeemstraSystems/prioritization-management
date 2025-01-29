@@ -1,5 +1,5 @@
 0.000000	0.000000	n-001   Starting with a task, we can ask ourselves ...
-1.000000	1.000000	n-002   With this task, are we doing the thing or things?
+3.000000	3.000000	n-002   With this task, are we doing the thing or things?
 2.000000	2.000000	n-004   If the answer is no, we are non-productive.
 3.000000	3.000000	n-028   There is no waste of time or resources.
 4.000000	4.000000	n-029   Therefore we finish without doing the task.
