@@ -1,6 +1,6 @@
-prioritering-management
+prioritization-management
 
-# Prioritisatiebeheer
+# Prioritization Management
 
 > Sluglijn
 
@@ -15,19 +15,19 @@ prioritering-management
 
 **Uitvoerende samenvatting**
 
-Tekst
+Text
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
-## 100 - Inleiding
+## 100 - Introduction
 
-Zien[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-See [README.md](./200/README.md)
+Zien[README.md](./200/README.md)
 
-## 300 - onze applicatie bouwen
+## 300 - Building Our Application
 
 Zien[README.md](./300/README.md)
 
