@@ -6,7 +6,7 @@
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [सबमैन](./PODMAN.md)
@@ -27,7 +27,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे आवेदन का निर्माण
 
 देखना[README.md](./300/README.md)
 
