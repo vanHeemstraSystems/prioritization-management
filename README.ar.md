@@ -1,4 +1,4 @@
-prioritization-management
+إعطاء الأولوية لإدارة
 
 # إدارة الأولويات
 
@@ -6,20 +6,20 @@ prioritization-management
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
--   [مسرد](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [رجل فرعي](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
-Text
+نص
 
-ولدت مع[Rytr](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
