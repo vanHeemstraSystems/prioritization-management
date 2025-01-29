@@ -10,7 +10,7 @@ Priorisierungsmanagement
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Subman](./PODMAN.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
@@ -23,7 +23,7 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
