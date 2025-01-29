@@ -2,14 +2,14 @@
 
 # 優先管理
 
-> 斯拉格萊恩
+> 板條
 
--   [域名系統](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [主辦單位](./HOSTS.md)
--   [圖片](./IMAGES.md)
--   [柔和的](./PODMAN.md)
+-   [Hosts](./HOSTS.md)
+-   [圖像](./IMAGES.md)
+-   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
@@ -17,20 +17,20 @@
 
 文字
 
-生成於[里特爾](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
-## 100 - 簡介
+## 100 - Introduction
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
-## 200 - 要求
+## 200-要求
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300-構建我們的應用程序
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
