@@ -1,4 +1,4 @@
-إعطاء الأولوية لإدارة
+prioritization-management
 
 # إدارة الأولويات
 
@@ -10,14 +10,14 @@
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [رجل فرعي](./PODMAN.md)
--   [مراجع](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
 Text
 
-ولدت مع[ريتر](https://app.rytr.me)
+ولدت مع[Rytr](https://app.rytr.me)
 
 ## 100 - مقدمة
 
