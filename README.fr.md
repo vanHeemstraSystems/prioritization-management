@@ -15,7 +15,7 @@ Management de priorisation
 
 **Résumé exécutif**
 
-Text
+Texte
 
 Généré avec[Ritr](https://app.rytr.me)
 
