@@ -17,7 +17,7 @@
 
 نص
 
-ولدت مع[Rytr](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
@@ -25,7 +25,7 @@
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - بناء تطبيقنا
 
