@@ -11,7 +11,7 @@
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
@@ -33,4 +33,4 @@
 
 ## 400-結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
