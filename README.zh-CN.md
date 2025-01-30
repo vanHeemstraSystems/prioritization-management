@@ -1,4 +1,4 @@
-优先管理
+prioritization-management
 
 # 优先管理
 
