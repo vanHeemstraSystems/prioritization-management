@@ -63,6 +63,8 @@ We use [ElevenLabs](https://elevenlabs.io) to generate the narration from a text
 
 See the ```timeddialogues.txt``` file that contains the exact spoken text.
 
+**WARNING**: Make sure **not** to use ```spaces``` but a ```tab``` in the timestamps.txt file. It will fail if not doing so.
+
 ### timestamps.txt
 
 The relationship between the audio narration and the flowchart can be established through `timestamps.txt`. Each line of this file contains a timestamp in seconds and, with a tab character in between (TSV), the ID of the node that becomes active when that timestamp is reached within the narration. If the timestamps are created and exported using [Audacity’s Labels feature](https://manual.audacityteam.org/man/creating_and_selecting_labels.html), the file that is output can be used without any further modification. (The second column, output by Audacity as an “end of timestamp” value, is ignored in this case.)
