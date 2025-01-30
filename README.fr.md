@@ -7,7 +7,7 @@ Management de priorisation
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Sous-homme](./PODMAN.md)
 -   [Références](./REFERENCES.md)
@@ -21,7 +21,7 @@ Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - exigences
 
