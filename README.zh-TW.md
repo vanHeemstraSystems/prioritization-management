@@ -1,4 +1,4 @@
-prioritization-management
+優先管理
 
 # 優先管理
 
@@ -15,7 +15,7 @@ prioritization-management
 
 **執行摘要**
 
-Text
+文字
 
 生成[ritr](https://app.rytr.me)
 
@@ -23,7 +23,7 @@ Text
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200-要求
 
 看[README.md](./200/README.md)
 
