@@ -1,11 +1,11 @@
 प्राथमिकता-प्रबंधन
 
-# Prioritization Management
+# प्राथमिकता प्रबंधन
 
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
@@ -23,7 +23,7 @@
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
