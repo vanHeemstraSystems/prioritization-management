@@ -10,7 +10,7 @@ gestión de priorización
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
--   [Referencias](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
