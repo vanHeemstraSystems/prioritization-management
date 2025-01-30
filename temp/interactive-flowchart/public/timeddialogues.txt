@@ -6,9 +6,9 @@
 13.000000	13.000000	n-002   We ask ourselves: "With this task, are we doing the thing or things?"
 18.000000	18.000000	n-003   If the answer is yes, we are productive.
 22.000000	22.000000	n-005   We ask ourselves: "With this task, are we doing the right thing or things?"
-8.000000	8.000000	n-006   Line 9 and some additional narration
-9.000000	9.000000	n-008   Line 10 and some additional narration
-10.000000	10.000000	n-009   Line 11 and some additional narration
+27.000000	27.000000	n-006   If the answer is no, the task is ineffective.
+28.000000	28.000000	n-008   We ask ourselves: "With this task, are we doing the thing or things right?"
+32.000000	32.000000	n-009   If the answer is no, the task is inefficient.
 11.000000	11.000000	n-027   Line 12 and some additional narration
 12.000000	12.000000	n-029   Line 13 and some additional narration
 13.000000	13.000000	n-008   Line 14 and some additional narration
