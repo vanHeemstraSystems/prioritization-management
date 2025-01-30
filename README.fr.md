@@ -6,7 +6,7 @@ Management de priorisation
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Sous-homme](./PODMAN.md)
@@ -29,7 +29,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-Voir[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusion
 
