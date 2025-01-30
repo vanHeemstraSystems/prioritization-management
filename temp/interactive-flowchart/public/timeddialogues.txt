@@ -1,11 +1,11 @@
-0.000000	0.000000	n-001   Starting with a task, we can ask ourselves ...
-3.000000	3.000000	n-002   With this task, are we doing the thing or things?
+0.000000	0.000000	n-001   Starting with a task.
+3.000000	3.000000	n-002   We ask ourselves: "With this task, are we doing the thing or things?"
 7.000000	7.000000	n-004   If the answer is no, we are non-productive.
 10.000000	10.000000	n-028   There is no waste of time or resources.
 13.000000	13.000000	n-029   Therefore we finish without doing the task.
-15.000000	15.000000	n-002   With this task, are we doing the thing or things?
-17.000000	17.000000	n-003   If the answer is yes, we are productive.
-7.000000	7.000000	n-005   Line 8 and some additional narration
+15.000000	15.000000	n-002   We ask ourselves: "With this task, are we doing the thing or things?"
+20.000000	20.000000	n-003   If the answer is yes, we are productive.
+22.000000	22.000000	n-005   We ask ourselves: "With this task, are we doing the right thing or things?"
 8.000000	8.000000	n-006   Line 9 and some additional narration
 9.000000	9.000000	n-008   Line 10 and some additional narration
 10.000000	10.000000	n-009   Line 11 and some additional narration
