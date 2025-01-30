@@ -5,49 +5,49 @@
 13.000000	13.000000	n-029   Therefore we finish without doing the task.
 15.000000	15.000000	n-002   With this task, are we doing the thing or things?
 17.000000	17.000000	n-003   If the answer is yes, we are productive.
-7.000000	7.000000	n-005
-8.000000	8.000000	n-006
-9.000000	9.000000	n-008
-10.000000	10.000000	n-009
-11.000000	11.000000	n-027
-12.000000	12.000000	n-029
-13.000000	13.000000	n-008
-14.000000	14.000000	n-009
-15.000000	15.000000	n-027
-16.000000	16.000000	n-029
-17.000000	17.000000	n-008
-18.000000	18.000000	n-010
-19.000000   19.000000   n-027
-20.000000   20.000000   n-029
-21.000000	21.000000	n-005
-22.000000	22.000000	n-007
-23.000000   23.000000   n-011
-24.000000   24.000000   n-012
-25.000000   25.000000   n-027
-26.000000   26.000000   n-029
-27.000000   27.000000   n-011
-28.000000   28.000000   n-013
-29.000000   29.000000   n-014
-30.000000   30.000000   n-015
-31.000000   31.000000   n-017
-32.000000   32.000000   n-019
-33.000000   33.000000   n-023
-34.000000   34.000000   n-028
-35.000000   35.000000   n-029
-36.000000   36.000000   n-017
-37.000000   37.000000   n-020
-38.000000   38.000000   n-024
-39.000000   39.000000   n-028
-40.000000   40.000000   n-029
-41.000000   41.000000   n-014
-42.000000   42.000000   n-016
-43.000000   43.000000   n-018
-44.000000   44.000000   n-021
-45.000000   45.000000   n-025    
-46.000000   46.000000   n-028
-47.000000   47.000000   n-029
-48.000000   48.000000   n-018
-49.000000   49.000000   n-022
-50.000000   50.000000   n-026
-51.000000   51.000000   n-028
-63.440488   63.440488   n-029
+7.000000	7.000000	n-005   Line 8 and some additional narration
+8.000000	8.000000	n-006   Line 9 and some additional narration
+9.000000	9.000000	n-008   Line 10 and some additional narration
+10.000000	10.000000	n-009   Line 11 and some additional narration
+11.000000	11.000000	n-027   Line 12 and some additional narration
+12.000000	12.000000	n-029   Line 13 and some additional narration
+13.000000	13.000000	n-008   Line 14 and some additional narration
+14.000000	14.000000	n-009   Line 15 and some additional narration
+15.000000	15.000000	n-027   Line 16 and some additional narration
+16.000000	16.000000	n-029   Line 17 and some additional narration
+17.000000	17.000000	n-008   Line 18 and some additional narration
+18.000000	18.000000	n-010   Line 19 and some additional narration
+19.000000   19.000000   n-027   Line 20 and some additional narration
+20.000000   20.000000   n-029   Line 21 and some additional narration
+21.000000	21.000000	n-005   Line 22 and some additional narration
+22.000000	22.000000	n-007   Line 23 and some additional narration
+23.000000   23.000000   n-011   Line 24 and some additional narration
+24.000000   24.000000   n-012   Line 25 and some additional narration
+25.000000   25.000000   n-027   Line 26 and some additional narration
+26.000000   26.000000   n-029   Line 27 and some additional narration
+27.000000   27.000000   n-011   Line 28 and some additional narration
+28.000000   28.000000   n-013   Line 29 and some additional narration
+29.000000   29.000000   n-014   Line 30 and some additional narration
+30.000000   30.000000   n-015   Line 31 and some additional narration
+31.000000   31.000000   n-017   Line 32 and some additional narration
+32.000000   32.000000   n-019   Line 33 and some additional narration
+33.000000   33.000000   n-023   Line 34 and some additional narration
+34.000000   34.000000   n-028   Line 35 and some additional narration
+35.000000   35.000000   n-029   Line 36 and some additional narration
+36.000000   36.000000   n-017   Line 37 and some additional narration
+37.000000   37.000000   n-020   Line 38 and some additional narration
+38.000000   38.000000   n-024   Line 39 and some additional narration
+39.000000   39.000000   n-028   Line 40 and some additional narration
+40.000000   40.000000   n-029   Line 41 and some additional narration
+41.000000   41.000000   n-014   Line 42 and some additional narration
+42.000000   42.000000   n-016   Line 43 and some additional narration
+43.000000   43.000000   n-018   Line 44 and some additional narration
+44.000000   44.000000   n-021   Line 45 and some additional narration
+45.000000   45.000000   n-025   Line 46 and some additional narration
+46.000000   46.000000   n-028   Line 47 and some additional narration
+47.000000   47.000000   n-029   Line 48 and some additional narration
+48.000000   48.000000   n-018   Line 49 and some additional narration
+49.000000   49.000000   n-022   Line 50 and some additional narration
+50.000000   50.000000   n-026   Line 51 and some additional narration
+51.000000   51.000000   n-028   Line 52 and some additional narration
+63.440488   63.440488   n-029   Line 53 and some additional narration
