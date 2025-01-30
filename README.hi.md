@@ -1,4 +1,4 @@
-prioritization-management
+प्राथमिकता-प्रबंधन
 
 # प्राथमिकता प्रबंधन
 
