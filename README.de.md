@@ -1,4 +1,4 @@
-prioritization-management
+Priorisierungsmanagement
 
 # Priorisierungsmanagement
 
@@ -21,7 +21,7 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 - Anforderungen
 
