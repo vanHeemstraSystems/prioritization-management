@@ -9,7 +9,7 @@
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [رجل فرعي](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
@@ -19,7 +19,7 @@
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - مقدمة
 
 يرى[README.md](./100/README.md)
 
