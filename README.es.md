@@ -7,7 +7,7 @@ gestión de priorización
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Anfitriones](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
@@ -15,7 +15,7 @@ gestión de priorización
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
 Generado con[Ritro](https://app.rytr.me)
 
