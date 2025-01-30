@@ -2,15 +2,15 @@
 3.000000	3.000000	n-002   [4] We ask ourselves: "With this task, are we doing the thing or things?"
 7.000000	7.000000	n-004   [2] If the answer is no, we are non-productive.
 9.000000	9.000000	n-028   [3] There is no waste of time or resources.
-12.000000	12.000000	n-029   [2] We finish without doing the task.
+12.000000	12.000000	n-029   [2] We finish the task prioritization.
 14.000000	14.000000	n-002   [5] We ask ourselves: "With this task, are we doing the thing or things?"
 19.000000	19.000000	n-003   [4] If the answer is yes, we are productive.
 23.000000	23.000000	n-005   [5] We ask ourselves: "With this task, are we doing the right thing or things?"
 28.000000	28.000000	n-006   [3] If the answer is no, the task is ineffective.
 31.000000	31.000000	n-008   [5] We ask ourselves: "With this task, are we doing the thing or things right?"
 36.000000	36.000000	n-009   [3] If the answer is no, the task is inefficient.
-39.000000	11.000000	n-027   Line 12 and some additional narration
-40.000000	12.000000	n-029   Line 13 and some additional narration
+39.000000	39.000000	n-027   [3] There is waste of time or resources.
+40.000000	12.000000	n-029   [2] We finish the task prioritization.
 41.000000	13.000000	n-008   Line 14 and some additional narration
 42.000000	14.000000	n-009   Line 15 and some additional narration
 43.000000	15.000000	n-027   Line 16 and some additional narration
