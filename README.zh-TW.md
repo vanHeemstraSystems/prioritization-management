@@ -11,7 +11,7 @@
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [遙測](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **執行摘要**
 
@@ -19,7 +19,7 @@
 
 生成[ritr](https://app.rytr.me)
 
-## 100-簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
