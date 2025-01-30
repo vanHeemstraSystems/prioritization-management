@@ -2,7 +2,7 @@
 
 # 优先管理
 
-> 板条
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
