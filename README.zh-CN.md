@@ -10,7 +10,7 @@
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
