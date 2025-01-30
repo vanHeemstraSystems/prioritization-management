@@ -1,4 +1,4 @@
-优先管理
+prioritization-management
 
 # 优先管理
 
@@ -7,11 +7,11 @@
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [主持人](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [遥测](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **执行摘要**
 
