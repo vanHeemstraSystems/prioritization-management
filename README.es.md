@@ -11,7 +11,7 @@ gestión de priorización
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
