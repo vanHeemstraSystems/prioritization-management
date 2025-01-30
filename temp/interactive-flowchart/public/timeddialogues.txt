@@ -10,7 +10,7 @@
 31.000000	31.000000	n-008   [5] We ask ourselves: "With this task, are we doing the thing or things right?"
 36.000000	36.000000	n-009   [3] If the answer is no, the task is inefficient.
 39.000000	39.000000	n-027   [3] There is waste of time or resources.
-40.000000	12.000000	n-029   [2] We finish the task prioritization.
+42.000000	42.000000	n-029   [2] We finish the task prioritization.
 41.000000	13.000000	n-008   Line 14 and some additional narration
 42.000000	14.000000	n-009   Line 15 and some additional narration
 43.000000	15.000000	n-027   Line 16 and some additional narration
