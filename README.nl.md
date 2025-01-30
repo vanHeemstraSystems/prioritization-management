@@ -13,7 +13,7 @@ prioritering-management
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Uitvoerende samenvatting**
+**Executive Summary**
 
 Tekst
 
