@@ -9,7 +9,7 @@
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
