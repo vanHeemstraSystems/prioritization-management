@@ -10,7 +10,7 @@
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
@@ -23,7 +23,7 @@
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
@@ -33,4 +33,4 @@
 
 ## 400-结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
