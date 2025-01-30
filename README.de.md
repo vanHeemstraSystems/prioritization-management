@@ -1,6 +1,6 @@
 Priorisierungsmanagement
 
-# Priorisierungsmanagement
+# Prioritization Management
 
 > Slugline
 
@@ -13,7 +13,7 @@ Priorisierungsmanagement
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
