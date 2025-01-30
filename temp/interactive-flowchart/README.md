@@ -52,6 +52,17 @@ To include these alternate states, the layers/groups of nodes and edges can be d
 
 An audio narration can be added as `narration.mp3`. If no such file is found, the narrative features of the flowchart template are disabled.
 
+We use [ElevenLabs](https://elevenlabs.io) to generate the narration from a text file, using text-to-speech. We use the following settings:
+
+- Voice: Rachel
+- Model: Eleven Multilingual V2
+- Stability: Medium
+- Similarity: Higher
+- Style Exaggeration: None
+- Speaker boost: On
+
+See the ```timeddialogues.txt``` file that contains the exact spoken text.
+
 ### timestamps.txt
 
 The relationship between the audio narration and the flowchart can be established through `timestamps.txt`. Each line of this file contains a timestamp in seconds and, with a tab character in between (TSV), the ID of the node that becomes active when that timestamp is reached within the narration. If the timestamps are created and exported using [Audacity’s Labels feature](https://manual.audacityteam.org/man/creating_and_selecting_labels.html), the file that is output can be used without any further modification. (The second column, output by Audacity as an “end of timestamp” value, is ignored in this case.)
