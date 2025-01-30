@@ -10,40 +10,40 @@
 35.000000	35.000000	n-008   [5] We ask ourselves: "With this task, are we doing the thing or things right?"
 39.000000	39.000000	n-009   [3] If the answer is no, the task is inefficient.
 43.000000	43.000000	n-027   [3] There is waste of time or resources.
-45.000000	45.000000	n-029   [2] We finish the task prioritization. OK
+45.000000	45.000000	n-029   [2] We finish the task prioritization.
 49.000000	49.000000	n-008   [5] We ask ourselves: "With this task, are we doing the thing or things right?"
-50.000000	50.000000	n-010   [3] If the answer is yes, the task is efficient.
-52.000000	52.000000	n-027   [3] There is waste of time or resources.
-57.000000	57.000000	n-029   [2] We finish the task prioritization.
-59.000000	59.000000	n-005   Line 18 and some additional narration
-60.000000	60.000000	n-007   Line 19 and some additional narration
-61.000000	61.000000	n-011   Line 20 and some additional narration
-62.000000	62.000000	n-012   Line 21 and some additional narration
-63.000000	63.000000	n-027   Line 22 and some additional narration
-64.000000	64.000000	n-029   Line 23 and some additional narration
-65.000000	65.000000	n-011   Line 24 and some additional narration
-66.000000	66.000000	n-013   Line 25 and some additional narration
-67.000000	67.000000	n-014   Line 26 and some additional narration
-68.000000	68.000000	n-015   Line 27 and some additional narration
-69.000000	69.000000	n-017   Line 28 and some additional narration
-70.000000	70.000000	n-019   Line 29 and some additional narration
-71.000000	71.000000	n-023   Line 30 and some additional narration
-72.000000	72.000000	n-028   Line 31 and some additional narration
-73.000000	73.000000	n-029   Line 32 and some additional narration
-74.000000	74.000000	n-017   Line 33 and some additional narration
-75.000000	75.000000	n-020   Line 34 and some additional narration
-76.000000	76.000000	n-024   Line 35 and some additional narration
-77.000000	77.000000	n-028   Line 36 and some additional narration
-78.000000	78.000000	n-029   Line 37 and some additional narration
-79.000000	79.000000	n-014   Line 38 and some additional narration
-80.000000	80.000000	n-016   Line 39 and some additional narration
-81.000000	81.000000	n-018   Line 40 and some additional narration
-82.000000	82.000000	n-021   Line 41 and some additional narration
-83.000000	83.000000	n-025   Line 42 and some additional narration
-84.000000	84.000000	n-028   Line 43 and some additional narration
-85.000000	85.000000	n-029   Line 44 and some additional narration
-86.000000	86.000000	n-018   Line 45 and some additional narration
-87.000000	87.000000	n-022   Line 46 and some additional narration
-88.000000	88.000000	n-026   Line 47 and some additional narration
-89.000000	89.000000	n-028   Line 48 and some additional narration
-90.000000	90.000000	n-029   Line 49 and some additional narration
+53.000000	53.000000	n-010   [3] If the answer is yes, the task is efficient.
+56.000000	56.000000	n-027   [3] There is waste of time or resources.
+58.000000	58.000000	n-029   [2] We finish the task prioritization.
+61.000000	61.000000	n-005   Line 18 and some additional narration
+62.000000	61.000000	n-007   Line 19 and some additional narration
+63.000000	63.000000	n-011   Line 20 and some additional narration
+64.000000	64.000000	n-012   Line 21 and some additional narration
+65.000000	65.000000	n-027   Line 22 and some additional narration
+66.000000	66.000000	n-029   Line 23 and some additional narration
+67.000000	67.000000	n-011   Line 24 and some additional narration
+68.000000	68.000000	n-013   Line 25 and some additional narration
+69.000000	69.000000	n-014   Line 26 and some additional narration
+70.000000	70.000000	n-015   Line 27 and some additional narration
+71.000000	71.000000	n-017   Line 28 and some additional narration
+72.000000	72.000000	n-019   Line 29 and some additional narration
+73.000000	73.000000	n-023   Line 30 and some additional narration
+74.000000	74.000000	n-028   Line 31 and some additional narration
+75.000000	75.000000	n-029   Line 32 and some additional narration
+76.000000	76.000000	n-017   Line 33 and some additional narration
+77.000000	77.000000	n-020   Line 34 and some additional narration
+78.000000	78.000000	n-024   Line 35 and some additional narration
+79.000000	79.000000	n-028   Line 36 and some additional narration
+80.000000	80.000000	n-029   Line 37 and some additional narration
+81.000000	81.000000	n-014   Line 38 and some additional narration
+82.000000	82.000000	n-016   Line 39 and some additional narration
+83.000000	83.000000	n-018   Line 40 and some additional narration
+84.000000	84.000000	n-021   Line 41 and some additional narration
+85.000000	85.000000	n-025   Line 42 and some additional narration
+86.000000	86.000000	n-028   Line 43 and some additional narration
+87.000000	87.000000	n-029   Line 44 and some additional narration
+88.000000	88.000000	n-018   Line 45 and some additional narration
+89.000000	89.000000	n-022   Line 46 and some additional narration
+90.000000	90.000000	n-026   Line 47 and some additional narration
+91.000000	91.000000	n-028   Line 48 and some additional narration
+92.000000	92.000000	n-029   Line 49 and some additional narration
