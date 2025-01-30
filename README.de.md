@@ -1,6 +1,6 @@
 Priorisierungsmanagement
 
-# Prioritization Management
+# Priorisierungsmanagement
 
 > Slugline
 
