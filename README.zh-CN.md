@@ -1,6 +1,6 @@
-优先管理
+prioritization-management
 
-# 优先管理
+# Prioritization Management
 
 > 板条
 
