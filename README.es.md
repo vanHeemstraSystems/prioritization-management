@@ -1,4 +1,4 @@
-gestión de priorización
+prioritization-management
 
 # Gestión de priorización
 
