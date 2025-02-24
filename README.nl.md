@@ -1,4 +1,4 @@
-prioritering-management
+prioritization-management
 
 # Prioritisatiebeheer
 
@@ -17,7 +17,7 @@ prioritering-management
 
 Tekst
 
-Gegenereerd met[Rytr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
