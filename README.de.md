@@ -1,4 +1,4 @@
-prioritization-management
+Priorisierungsmanagement
 
 # Priorisierungsmanagement
 
@@ -6,7 +6,7 @@ prioritization-management
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Subman](./PODMAN.md)
@@ -14,6 +14,8 @@ prioritization-management
 -   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
+
+![Image](https://github.com/user-attachments/assets/ada20b49-048b-4cdf-85f1-7b832c8458af)
 
 Text
 
