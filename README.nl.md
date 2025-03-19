@@ -1,4 +1,4 @@
-prioritization-management
+prioritering-management
 
 # Prioritisatiebeheer
 
@@ -14,6 +14,8 @@ prioritization-management
 -   [Telemetrie](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
+
+![Image](https://github.com/user-attachments/assets/ada20b49-048b-4cdf-85f1-7b832c8458af)
 
 Tekst
 
