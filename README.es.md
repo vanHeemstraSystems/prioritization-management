@@ -1,4 +1,4 @@
-prioritization-management
+gestión de priorización
 
 # Gestión de priorización
 
@@ -7,13 +7,15 @@ prioritization-management
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Anfitriones](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
+
+![Image](https://github.com/user-attachments/assets/ada20b49-048b-4cdf-85f1-7b832c8458af)
 
 Texto
 
@@ -23,7 +25,7 @@ Generado con[Ritro](https://app.rytr.me)
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
