@@ -11,9 +11,11 @@
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [遙測](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **執行摘要**
+
+![Image](https://github.com/user-attachments/assets/ada20b49-048b-4cdf-85f1-7b832c8458af)
 
 文字
 
@@ -21,7 +23,7 @@
 
 ## 100-簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200-要求
 
@@ -33,4 +35,4 @@ See [README.md](./100/README.md)
 
 ## 400-結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
