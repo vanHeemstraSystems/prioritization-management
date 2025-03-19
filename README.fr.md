@@ -2,7 +2,7 @@ Management de priorisation
 
 # Gestion de priorisation
 
-> Lisc
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -14,6 +14,8 @@ Management de priorisation
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
+
+![Image](https://github.com/user-attachments/assets/ada20b49-048b-4cdf-85f1-7b832c8458af)
 
 Texte
 
