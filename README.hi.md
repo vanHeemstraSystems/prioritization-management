@@ -4,7 +4,7 @@
 
 > स्लगलाइन
 
--   [डीएनएस](./DNS.md)
+-   [DNS](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
@@ -14,6 +14,8 @@
 -   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
+
+![Image](https://github.com/user-attachments/assets/ada20b49-048b-4cdf-85f1-7b832c8458af)
 
 मूलपाठ
 
@@ -29,7 +31,7 @@
 
 ## 300 - हमारे आवेदन का निर्माण
 
-देखना[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
