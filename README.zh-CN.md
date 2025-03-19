@@ -1,6 +1,6 @@
-prioritization-management
+优先管理
 
-# Prioritization Management
+# 优先管理
 
 > 板条
 
@@ -15,9 +15,11 @@ prioritization-management
 
 **执行摘要**
 
+![Image](https://github.com/user-attachments/assets/ada20b49-048b-4cdf-85f1-7b832c8458af)
+
 文本
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-简介
 
